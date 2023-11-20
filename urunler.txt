@@ -1,0 +1,10 @@
+(1)Kucuk Boy Pizza     -55
+(2)Orta Boy Pizza      -85
+(3)Buyuk Boy Pizza     -105
+(4)Hamburger Menu      -57
+(5)CheeseBurger Menu   -55
+(6)Kofte[1 prs.+pilav] -70
+(7)Patates             -30
+(8)Lahmacun            -22
+(9)Iskender Menu       -80
+(10)Etli Ekmek         -50
